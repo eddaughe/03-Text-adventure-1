@@ -14,8 +14,8 @@
 
     "rooms": {
       "START": {
-        "name": "Starting place",
-        "desc": "This is the place to start!",
+        "name": "Swamp",
+        "desc": "You are in an unfamiliar area. Everything is damp and covered with strange growth. The trees are unlike any you've seen before.",
         "exits": [
           {
             "verb": "NORTH",
