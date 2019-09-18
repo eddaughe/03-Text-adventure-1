@@ -20,7 +20,7 @@
           {
             "verb": "NORTH",
             "target": "LOC2",
-            "condition": ""
+            "condition": "die"
           },
           {
             "verb": "SOUTH",
