@@ -44,9 +44,9 @@
         "name": "Strange Swamp",
         "desc": "You are surrounded by a thick fog, you can barely see your hands.",
         "exits": [
-        ],
-      }
-        "inventory": []
+        ]
+      },
+        
         "LOC3": {
           "name": "Strange Swamp",
           "desc": "You are hearing strange noises they sound like voices but you feel as if they can't be human.",
