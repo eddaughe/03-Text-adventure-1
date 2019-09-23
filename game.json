@@ -24,7 +24,7 @@
           },
           {
             "verb": "SOUTH",
-            "target": "LOC2",
+            "target": "LOC3",
             "condition": ""
           },
           {
@@ -45,6 +45,12 @@
         "desc": "You are surrounded by a thick fog, you can barely see your hands.",
         "exits": [
         ],
+        "LOC3": {
+          "name": "Strange Swamp",
+          "desc": "You are hearing strange noises they sound like voices but you feel as if they can't be human.",
+          "exits": [
+          ],
+
         "inventory": []
       }
     }
