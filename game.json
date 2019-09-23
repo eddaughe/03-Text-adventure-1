@@ -51,9 +51,7 @@
           "name": "Strange Swamp",
           "desc": "You are hearing strange noises they sound like voices but you feel as if they can't be human.",
           "exits": [
-          ],
-
-        "inventory": []
+          ]
       }
     }
   }
