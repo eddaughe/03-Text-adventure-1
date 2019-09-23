@@ -34,7 +34,7 @@
           },
           {
             "verb": "EAST",
-            "target": "LOC2",
+            "target": "LOC5",
             "condition": ""
           }
         ],
@@ -54,8 +54,14 @@
           ], "inventory": []
       },
       "LOC4": {
-        "name": "Strange hut",
+        "name": "Wooden Hut",
         "desc": "You are now certain that you hear a voice. It sounds as if its speaking in riddles.",
+        "exits": [
+        ], "inventory": []
+      },
+      "LOC5": {
+        "name": "Training",
+        "desc": "You have stumbled upon Jedi Master Yoda, you will now try and bring balance to the force.",
         "exits": [
         ], "inventory": []
       }
