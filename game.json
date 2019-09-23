@@ -41,8 +41,8 @@
         "inventory": []
       },
       "LOC2": {
-        "name": "Location 2",
-        "desc": "Here is the second location.",
+        "name": "Strange Swamp",
+        "desc": "You are surrounded by a thick fog, you can barely see your hands.",
         "exits": [
         ],
         "inventory": []
